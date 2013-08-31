@@ -16,7 +16,7 @@ namespace YouListTube
 
         protected void Button_Group_Click(object sender, EventArgs e)
         {
-            TextBox_Group.Text = "Funciona";
+            TextBox_Group.Text = "Hola mundo..";
         }
     }
 }
