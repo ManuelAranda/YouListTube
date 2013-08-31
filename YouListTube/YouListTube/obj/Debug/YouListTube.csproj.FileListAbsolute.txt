@@ -1,0 +1,4 @@
+f:\visual studio 2012\Projects\YouListTube\YouListTube\bin\YouListTube.dll
+f:\visual studio 2012\Projects\YouListTube\YouListTube\bin\YouListTube.pdb
+f:\visual studio 2012\Projects\YouListTube\YouListTube\obj\Debug\YouListTube.dll
+f:\visual studio 2012\Projects\YouListTube\YouListTube\obj\Debug\YouListTube.pdb
