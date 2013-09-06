@@ -4,6 +4,7 @@ using System.Linq;
 using System.Web;
 using System.Web.UI;
 using System.Web.UI.WebControls;
+using YouListTube.Querys;
 
 namespace YouListTube
 {
@@ -16,7 +17,9 @@ namespace YouListTube
 
         protected void Button_Group_Click(object sender, EventArgs e)
         {
-            TextBox_Group.Text = "Hola mundo..";
+            QueryGeneral cm = new QueryGeneral();
+            //Console.WriteLine(cm.getConection("coldplay"));
+            txtA_ListVideo.Value = cm.getConection(TextBox_Group.Text, 5);
         }
     }
 }

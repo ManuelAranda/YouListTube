@@ -2,3 +2,12 @@ f:\visual studio 2012\Projects\YouListTube\YouListTube\bin\YouListTube.dll
 f:\visual studio 2012\Projects\YouListTube\YouListTube\bin\YouListTube.pdb
 f:\visual studio 2012\Projects\YouListTube\YouListTube\obj\Debug\YouListTube.dll
 f:\visual studio 2012\Projects\YouListTube\YouListTube\obj\Debug\YouListTube.pdb
+F:\visual studio 2012\YouLisTube2\YouListTube\YouListTube\bin\YouListTube.dll
+F:\visual studio 2012\YouLisTube2\YouListTube\YouListTube\bin\YouListTube.pdb
+F:\visual studio 2012\YouLisTube2\YouListTube\YouListTube\obj\Debug\YouListTube.csprojResolveAssemblyReference.cache
+F:\visual studio 2012\YouLisTube2\YouListTube\YouListTube\obj\Debug\YouListTube.dll
+F:\visual studio 2012\YouLisTube2\YouListTube\YouListTube\obj\Debug\YouListTube.pdb
+F:\visual studio 2012\YouLisTube2\YouListTube\YouListTube\bin\Google.GData.Client.dll
+F:\visual studio 2012\YouLisTube2\YouListTube\YouListTube\bin\Google.GData.Extensions.dll
+F:\visual studio 2012\YouLisTube2\YouListTube\YouListTube\bin\Google.GData.YouTube.dll
+F:\visual studio 2012\YouLisTube2\YouListTube\YouListTube\bin\Newtonsoft.Json.dll

@@ -12,7 +12,8 @@
     <div>
         <asp:Label ID="Label_Group" runat="server" Text="Grupo o Artista"></asp:Label><br />
         <asp:TextBox ID="TextBox_Group" runat="server"></asp:TextBox><br />
-        <asp:Button ID="Button_Group" runat="server" Text="Crear" OnClick="Button_Group_Click" />
+        <asp:Button ID="Button_Group" runat="server" Text="Crear" OnClick="Button_Group_Click" /><br />
+        <textarea id="txtA_ListVideo" runat="server" cols="40" rows="20"></textarea>
     </div>
     </form>
 </body>
