@@ -14,7 +14,7 @@ namespace YouListTube.Querys
             WebClient client = new WebClient();
             string reply = client.DownloadString("https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults="
                 + maxResult + "&q=" + str + "&type=music&key=" + Key);
-            return reply;
+            return reply;            
         }
     }
 }

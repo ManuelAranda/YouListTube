@@ -22,22 +22,13 @@ namespace YouListTube {
         protected global::System.Web.UI.HtmlControls.HtmlForm form1;
         
         /// <summary>
-        /// Control Label_Group.
+        /// Control Txt_Input.
         /// </summary>
         /// <remarks>
         /// Campo generado automáticamente.
         /// Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.Label Label_Group;
-        
-        /// <summary>
-        /// Control TextBox_Group.
-        /// </summary>
-        /// <remarks>
-        /// Campo generado automáticamente.
-        /// Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
-        /// </remarks>
-        protected global::System.Web.UI.WebControls.TextBox TextBox_Group;
+        protected global::System.Web.UI.WebControls.TextBox Txt_Input;
         
         /// <summary>
         /// Control Button_Group.
@@ -47,6 +38,15 @@ namespace YouListTube {
         /// Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
         /// </remarks>
         protected global::System.Web.UI.WebControls.Button Button_Group;
+        
+        /// <summary>
+        /// Control video_content.
+        /// </summary>
+        /// <remarks>
+        /// Campo generado automáticamente.
+        /// Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+        /// </remarks>
+        protected global::System.Web.UI.HtmlControls.HtmlGenericControl video_content;
         
         /// <summary>
         /// Control txtA_ListVideo.

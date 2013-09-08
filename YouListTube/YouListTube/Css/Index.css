@@ -1,0 +1,17 @@
+﻿body {
+}
+#content {
+    text-align: center;
+}
+h1 {
+    margin-top: 60px;
+}
+#Txt_Input {
+    width: 300px;
+    margin-top: 30px;
+}
+#txtA_ListVideo {
+    margin-top: 30px;
+    width: 300px;
+    height: 379px;
+}

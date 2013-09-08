@@ -4,17 +4,23 @@
 
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head runat="server">
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
-    <title></title>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link href="Css/Index.css" rel="stylesheet" />
+    <title>"You&ltList&gtTube"</title>
 </head>
 <body>
-    <form id="form1" runat="server">
-    <div>
-        <asp:Label ID="Label_Group" runat="server" Text="Grupo o Artista"></asp:Label><br />
-        <asp:TextBox ID="TextBox_Group" runat="server"></asp:TextBox><br />
-        <asp:Button ID="Button_Group" runat="server" Text="Crear" OnClick="Button_Group_Click" /><br />
-        <textarea id="txtA_ListVideo" runat="server" cols="40" rows="20"></textarea>
+    <div id="content">
+        <h1>You&ltList&gtTube</h1>
+        <form id="form1" runat="server">
+            <div>
+                <asp:TextBox ID="Txt_Input" runat="server"></asp:TextBox><br />
+                <asp:Button ID="Button_Group" runat="server" Text="Play" OnClick="Button_Group_Click" /><br />
+                <div id="video_content" runat="server">
+                    <% =GetVideo()%>.
+                    <textarea id="txtA_ListVideo" runat="server" cols="40" rows="20"></textarea>
+                </div>
+            </div>
+        </form>
     </div>
-    </form>
 </body>
 </html>
