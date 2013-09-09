@@ -5,6 +5,7 @@ using System.Web;
 using System.Web.UI;
 using System.Web.UI.WebControls;
 using YouListTube.Querys;
+using System.Web.Services;
 
 namespace YouListTube
 {
@@ -16,7 +17,7 @@ namespace YouListTube
         {
 
         }
-
+        /*
         protected void Button_Group_Click(object sender, EventArgs e)
         {
             QueryGeneral cm = new QueryGeneral();
@@ -30,6 +31,6 @@ namespace YouListTube
         protected String GetVideo() {
             String str = "<iframe class=\"youtube-player\" type=\"text/html\" width=\"640\" height=\"385\" src=\"http://www.youtube.com/v/" + id_video +"&autoplay=1 frameborder=\"0\"></iframe>";
             return str;
-        }
+        }*/
     }
 }

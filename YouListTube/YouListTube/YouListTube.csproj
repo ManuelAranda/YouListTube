@@ -71,6 +71,7 @@
   <ItemGroup>
     <Content Include="Css\Index.css" />
     <Content Include="Index.aspx" />
+    <Content Include="Js\PlayListManagement.js" />
     <Content Include="Web.config">
       <SubType>Designer</SubType>
     </Content>
