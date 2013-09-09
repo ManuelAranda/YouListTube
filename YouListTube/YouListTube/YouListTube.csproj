@@ -70,6 +70,7 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="Css\Index.css" />
+    <Content Include="Imagenes\YouListTube_Logo_transparente.png" />
     <Content Include="Index.aspx" />
     <Content Include="Js\PlayListManagement.js" />
     <Content Include="Web.config">

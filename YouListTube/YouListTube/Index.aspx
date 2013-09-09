@@ -12,7 +12,7 @@
 </head>
 <body>
     <div id="content">
-        <h1>You&ltList&gtTube</h1>
+        <img width="330px" src="Imagenes/YouListTube_Logo_transparente.png" />
         <form id="form1" runat="server">
             <div>
                 <input id="Txt_Input" type="text" /><br />
