@@ -78,7 +78,6 @@
     </Content>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Conexion\ConexionManager.cs" />
     <Compile Include="Index.aspx.cs">
       <DependentUpon>Index.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
@@ -87,7 +86,6 @@
       <DependentUpon>Index.aspx</DependentUpon>
     </Compile>
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="Querys\QueryGeneral.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Web.Debug.config">

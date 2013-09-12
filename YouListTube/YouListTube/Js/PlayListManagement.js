@@ -1,5 +1,11 @@
 ﻿$(document).ready(function () {
+    /*$('#play').button({
+        icons: {
+            primary: "ui-icon-play"
+        }
+    })*/
     $('#play').click(function () {
+        console.log("funca");
         var q = $.trim($('#Txt_Input').val());
         $.ajax({
             dataType: "json",

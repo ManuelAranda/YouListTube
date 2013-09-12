@@ -16,3 +16,10 @@
     width: 300px;
     height: 379px;
 }
+#play {
+    font-size: 62%;
+    margin-bottom: 30px;
+    width: 77px;
+    height: 25px;
+    text-align: center;
+}
